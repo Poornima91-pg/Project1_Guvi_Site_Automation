@@ -523,4 +523,5 @@ class Test_Guvi_Automation_Page:
             # Log any unexpected runtime errors
             logger.exception(f"Unexpected error occurred : {e}")
             driver.save_screenshot("screenshots/TC10_Verify_logout_Error.png")
+
             raise
