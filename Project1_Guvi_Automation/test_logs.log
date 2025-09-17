@@ -1,0 +1,124 @@
+2025-09-17 22:56:34,213 - INFO - root - Logging configured successfully
+2025-09-17 22:56:35,067 - INFO - Project1_Guvi_Automation.conftest - Selected browser: chrome
+2025-09-17 22:56:35,067 - INFO - WDM - ====== WebDriver manager ======
+2025-09-17 22:56:42,668 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-09-17 22:56:42,813 - INFO - WDM - Get LATEST chromedriver version for google-chrome
+2025-09-17 22:56:42,857 - INFO - WDM - Driver [C:\Users\ganes\.wdm\drivers\chromedriver\win64\140.0.7339.82\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-17 22:56:52,401 - INFO - Project1_Guvi_Automation.conftest - Launched Chrome browser
+2025-09-17 22:56:52,529 - INFO - Project1_Guvi_Automation.pages.home_page - Navigating to URL: https://www.guvi.in/
+2025-09-17 22:57:03,817 - INFO - Project1_Guvi_Automation.pages.home_page - Successfully navigated to: https://www.guvi.in/
+2025-09-17 22:57:03,819 - INFO - Test_Guvi_Page_automation - Navigated to GUVI homepage URL.
+2025-09-17 22:57:03,842 - INFO - Test_Guvi_Page_automation - GUVI URL loaded successfully: https://www.guvi.in/
+2025-09-17 22:57:04,236 - INFO - Test_Guvi_Page_automation - Screenshot captured: TC1_Verify_url.png
+2025-09-17 22:57:04,248 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for page title to contain 'GUVI | Learn to code'
+2025-09-17 22:57:04,268 - INFO - Project1_Guvi_Automation.pages.home_page - Page title found: GUVI | Learn to code in your native language
+2025-09-17 22:57:04,621 - INFO - Test_Guvi_Page_automation - Title matched successfully: GUVI | Learn to code in your native language
+2025-09-17 22:57:04,628 - INFO - Project1_Guvi_Automation.pages.home_page - Checking menu item 'Courses' is clickable
+2025-09-17 22:57:06,986 - INFO - Project1_Guvi_Automation.pages.home_page - Menu 'Courses' is visible and enabled
+2025-09-17 22:57:23,388 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on 'Courses' menu item
+2025-09-17 22:57:23,389 - INFO - Project1_Guvi_Automation.pages.home_page - Verifying Courses navigation
+2025-09-17 22:57:23,832 - INFO - Project1_Guvi_Automation.pages.home_page - Courses page navigation verified
+2025-09-17 22:57:24,073 - INFO - Project1_Guvi_Automation.pages.home_page - Checking menu item 'Live_class' is clickable
+2025-09-17 22:57:24,166 - INFO - Project1_Guvi_Automation.pages.home_page - Menu 'Live_class' is visible and enabled
+2025-09-17 22:57:24,477 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on 'Live_class' menu item
+2025-09-17 22:57:24,478 - INFO - Project1_Guvi_Automation.pages.home_page - Verifying Live Classes dropdown
+2025-09-17 22:57:24,637 - INFO - Project1_Guvi_Automation.pages.home_page - Live Classes dropdown is visible and enabled
+2025-09-17 22:57:24,638 - INFO - Project1_Guvi_Automation.pages.home_page - Checking menu item 'Practice' is clickable
+2025-09-17 22:57:24,719 - INFO - Project1_Guvi_Automation.pages.home_page - Menu 'Practice' is visible and enabled
+2025-09-17 22:57:24,852 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on 'Practice' menu item
+2025-09-17 22:57:24,852 - INFO - Project1_Guvi_Automation.pages.home_page - Verifying Practice dropdown
+2025-09-17 22:57:24,906 - INFO - Project1_Guvi_Automation.pages.home_page - Practice dropdown is visible and enabled
+2025-09-17 22:57:25,231 - INFO - Test_Guvi_Page_automation - All homepage menu items are visible and clickable
+2025-09-17 22:57:25,239 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Dobby assistant icon to be clickable
+2025-09-17 22:57:38,637 - INFO - Project1_Guvi_Automation.pages.home_page - Dobby assistant is visible and enabled on the homepage
+2025-09-17 22:57:38,664 - INFO - Test_Guvi_Page_automation - Dobby assistant is visible on the homepage
+2025-09-17 22:57:38,665 - INFO - Project1_Guvi_Automation.pages.home_page - Clicking on Dobby assistant icon
+2025-09-17 22:57:38,665 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Dobby assistant icon to be clickable
+2025-09-17 22:57:38,756 - INFO - Project1_Guvi_Automation.pages.home_page - Dobby assistant is visible and enabled on the homepage
+2025-09-17 22:57:39,071 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on Dobby assistant button
+2025-09-17 22:57:39,072 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Dobby iframe to appear
+2025-09-17 22:57:39,693 - INFO - Project1_Guvi_Automation.pages.home_page - Switched to Dobby assistant iframe
+2025-09-17 22:57:39,693 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Dobby chatbox inside iframe
+2025-09-17 22:57:39,778 - INFO - Project1_Guvi_Automation.pages.home_page - Dobby assistant chatbox is fully visible
+2025-09-17 22:57:39,865 - INFO - Project1_Guvi_Automation.pages.home_page - Dobby assistant chatbox title: Dobby
+2025-09-17 22:57:39,868 - INFO - Project1_Guvi_Automation.pages.home_page - Switched back to main page
+2025-09-17 22:57:39,870 - INFO - Test_Guvi_Page_automation - Dobby assistant chatbox title matched successfully
+2025-09-17 22:57:40,313 - INFO - Test_Guvi_Page_automation - dobby virtual assistant is enabled and displayed successfully
+2025-09-17 22:57:40,318 - INFO - Test_Guvi_Page_automation - Validate Sign Up button functionality
+2025-09-17 22:57:40,319 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Sign up button to be clickable
+2025-09-17 22:57:40,368 - INFO - Project1_Guvi_Automation.pages.home_page - Sign up button located successfully
+2025-09-17 22:57:40,389 - INFO - Test_Guvi_Page_automation - signup button is displayed and enabled
+2025-09-17 22:57:40,417 - INFO - Project1_Guvi_Automation.pages.home_page - Attempting to click Sign up button
+2025-09-17 22:57:40,418 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Sign up button to be clickable
+2025-09-17 22:57:40,458 - INFO - Project1_Guvi_Automation.pages.home_page - Sign up button located successfully
+2025-09-17 22:57:44,926 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on Sign up button and navigated to register page
+2025-09-17 22:57:44,937 - INFO - Test_Guvi_Page_automation - Navigated to Sign Up page successfully
+2025-09-17 22:57:45,173 - INFO - Test_Guvi_Page_automation - TC4_Verify_signup_button_functionality executed successfully
+2025-09-17 22:57:45,180 - INFO - Test_Guvi_Page_automation - Sign In via Sign Up flow
+2025-09-17 22:57:45,637 - INFO - Project1_Guvi_Automation.pages.signup_page - Entered username: Poornima
+2025-09-17 22:57:46,008 - INFO - Project1_Guvi_Automation.pages.signup_page - Entered email: guvi129001@gmail.com
+2025-09-17 22:57:46,200 - INFO - Project1_Guvi_Automation.pages.signup_page - Entered password: Abcd@1234
+2025-09-17 22:57:46,543 - INFO - Project1_Guvi_Automation.pages.signup_page - Entered mobile number: 1234567890
+2025-09-17 22:57:46,966 - INFO - Project1_Guvi_Automation.pages.signup_page - Clicked Sign Up button
+2025-09-17 22:57:47,986 - INFO - Project1_Guvi_Automation.pages.signup_page - Selected Current Profile: Looking for a career
+2025-09-17 22:57:48,376 - INFO - Project1_Guvi_Automation.pages.signup_page - Selected Degree: B.E. / B.Tech. Computer Science
+2025-09-17 22:57:48,474 - INFO - Project1_Guvi_Automation.pages.signup_page - Entered passing year: 2012
+2025-09-17 22:57:48,598 - INFO - Project1_Guvi_Automation.pages.signup_page - Clicked Submit button
+2025-09-17 22:57:50,271 - INFO - Project1_Guvi_Automation.pages.signup_page - Signup success message displayed
+2025-09-17 22:57:50,287 - INFO - Test_Guvi_Page_automation - Sign up completed successfully
+2025-09-17 22:57:50,690 - INFO - Project1_Guvi_Automation.pages.home_page - Attempting to click Sign up button
+2025-09-17 22:57:50,691 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Sign up button to be clickable
+2025-09-17 22:57:51,608 - INFO - Project1_Guvi_Automation.pages.home_page - Sign up button located successfully
+2025-09-17 22:57:54,354 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on Sign up button and navigated to register page
+2025-09-17 22:57:56,789 - INFO - Project1_Guvi_Automation.pages.signup_page - Navigated to Login page from Signup page
+2025-09-17 22:57:56,812 - INFO - Test_Guvi_Page_automation - Navigated from Sign Up to Login page successfully
+2025-09-17 22:57:57,050 - INFO - Test_Guvi_Page_automation - Sign In via Sign Up flow executed successfully
+2025-09-17 22:57:57,055 - INFO - Test_Guvi_Page_automation - Validate Login button functionality
+2025-09-17 22:57:57,055 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Login button to be clickable
+2025-09-17 22:57:57,125 - INFO - Project1_Guvi_Automation.pages.home_page - Login button located successfully
+2025-09-17 22:57:57,157 - INFO - Test_Guvi_Page_automation - Login button is displayed and enabled
+2025-09-17 22:57:57,196 - INFO - Project1_Guvi_Automation.pages.home_page - Attempting to click Login button
+2025-09-17 22:57:57,196 - INFO - Project1_Guvi_Automation.pages.home_page - Waiting for Login button to be clickable
+2025-09-17 22:57:57,256 - INFO - Project1_Guvi_Automation.pages.home_page - Login button located successfully
+2025-09-17 22:57:57,538 - INFO - Project1_Guvi_Automation.pages.home_page - Clicked on Login button and navigated to sign-in page
+2025-09-17 22:57:57,553 - INFO - Test_Guvi_Page_automation - Login page loaded successfully with URL: https://www.guvi.in/sign-in/
+2025-09-17 22:57:57,825 - INFO - Test_Guvi_Page_automation - login button validation executed successfully
+2025-09-17 22:57:57,838 - INFO - Test_Guvi_Page_automation - StartingTesting login with invalid credentials -> Username: Ganesh24@gmail.com
+2025-09-17 22:57:57,838 - INFO - Project1_Guvi_Automation.pages.home_page - Navigating to URL: https://www.guvi.in/sign-in/
+2025-09-17 22:57:59,548 - INFO - Project1_Guvi_Automation.pages.home_page - Successfully navigated to: https://www.guvi.in/sign-in/
+2025-09-17 22:57:59,763 - INFO - Project1_Guvi_Automation.pages.login_page - Entered username: Ganesh24@gmail.com
+2025-09-17 22:58:00,042 - INFO - Project1_Guvi_Automation.pages.login_page - Entered password on Login page
+2025-09-17 22:58:00,211 - INFO - Project1_Guvi_Automation.pages.login_page - Login button clicked successfully
+2025-09-17 22:58:00,301 - INFO - Project1_Guvi_Automation.pages.login_page - Login error message displayed: Incorrect Email or Password
+2025-09-17 22:58:00,301 - INFO - Test_Guvi_Page_automation - Error message validated successfully: Incorrect Email or Password
+2025-09-17 22:58:00,315 - INFO - Test_Guvi_Page_automation - User not redirected to dashboard as expected
+2025-09-17 22:58:00,585 - INFO - Test_Guvi_Page_automation - invalid log in tested successfully
+2025-09-17 22:58:00,595 - INFO - Test_Guvi_Page_automation - StartingTesting login with invalid credentials -> Username: Ganesh1824@gmail.com
+2025-09-17 22:58:00,595 - INFO - Project1_Guvi_Automation.pages.home_page - Navigating to URL: https://www.guvi.in/sign-in/
+2025-09-17 22:58:01,886 - INFO - Project1_Guvi_Automation.pages.home_page - Successfully navigated to: https://www.guvi.in/sign-in/
+2025-09-17 22:58:02,101 - INFO - Project1_Guvi_Automation.pages.login_page - Entered username: Ganesh1824@gmail.com
+2025-09-17 22:58:02,257 - INFO - Project1_Guvi_Automation.pages.login_page - Entered password on Login page
+2025-09-17 22:58:02,580 - INFO - Project1_Guvi_Automation.pages.login_page - Login button clicked successfully
+2025-09-17 22:58:02,758 - INFO - Project1_Guvi_Automation.pages.login_page - Login error message displayed: Incorrect Email or Password
+2025-09-17 22:58:02,758 - INFO - Test_Guvi_Page_automation - Error message validated successfully: Incorrect Email or Password
+2025-09-17 22:58:02,775 - INFO - Test_Guvi_Page_automation - User not redirected to dashboard as expected
+2025-09-17 22:58:03,102 - INFO - Test_Guvi_Page_automation - invalid log in tested successfully
+2025-09-17 22:58:03,122 - INFO - Test_Guvi_Page_automation - Validate login with valid credentials
+2025-09-17 22:58:03,124 - INFO - Project1_Guvi_Automation.pages.home_page - Navigating to URL: https://www.guvi.in/sign-in/
+2025-09-17 22:58:04,409 - INFO - Project1_Guvi_Automation.pages.home_page - Successfully navigated to: https://www.guvi.in/sign-in/
+2025-09-17 22:58:04,598 - INFO - Project1_Guvi_Automation.pages.login_page - Entered username: Ganesh1824@gmail.com
+2025-09-17 22:58:04,739 - INFO - Project1_Guvi_Automation.pages.login_page - Entered password on Login page
+2025-09-17 22:58:04,966 - INFO - Project1_Guvi_Automation.pages.login_page - Login button clicked successfully
+2025-09-17 22:58:07,524 - INFO - Project1_Guvi_Automation.pages.login_page - Login successful, navigated to user Home page.
+2025-09-17 22:58:07,720 - INFO - Test_Guvi_Page_automation - Login successful, user redirected to dashboard page: https://www.guvi.in/courses/?current_tab=myCourses
+2025-09-17 22:58:08,209 - INFO - Test_Guvi_Page_automation - Valid login credentials executed successfully
+2025-09-17 22:58:08,226 - INFO - Test_Guvi_Page_automation - Validate logout functionality
+2025-09-17 22:58:08,656 - INFO - Project1_Guvi_Automation.pages.dashboard_page - Clicked on logout dropdown successfully.
+2025-09-17 22:58:08,657 - INFO - Test_Guvi_Page_automation - Clicked on logout dropdown
+2025-09-17 22:58:17,078 - INFO - Project1_Guvi_Automation.pages.dashboard_page - Clicked on logout button successfully.
+2025-09-17 22:58:17,079 - INFO - Test_Guvi_Page_automation - Clicked on logout button
+2025-09-17 22:58:18,203 - INFO - Project1_Guvi_Automation.pages.dashboard_page - Logout successful, redirected to homepage.
+2025-09-17 22:58:18,204 - INFO - Test_Guvi_Page_automation - Waiting for logout to complete
+2025-09-17 22:58:18,230 - INFO - Test_Guvi_Page_automation - Logout successful, user redirected to GUVI homepage :https://www.guvi.in/
+2025-09-17 22:58:18,673 - INFO - Test_Guvi_Page_automation - account logout validation executed successfully
+2025-09-17 22:58:18,674 - INFO - root - Closing the browser
