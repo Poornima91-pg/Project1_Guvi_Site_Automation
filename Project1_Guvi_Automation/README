@@ -81,6 +81,9 @@ year = 2024
 **Running Tests**
 To execute tests, use the following commands:
 
+**Clone the Repository:**
+git clone https://github.com/Poornima91-pg/Project1_Guvi_Site_Automation/tree/main
+
 **Run All Tests with default browser(chrome) in config.ini file and displayed result on console:**
 
 change to required browser name in configwrite.py file and run it then run the below command
