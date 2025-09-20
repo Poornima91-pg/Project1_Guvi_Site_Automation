@@ -114,4 +114,6 @@ Guvi-page-automation-pytest-selenium/
 ├── configwrite.py                            # Environment variables writer file
 ├── config_reader.py                          # Environment variables reader file
 ├── requirements.txt                          # Project dependencies
+├── testlog.log                               # Test log file
 └── README.md                                 # Project documentation
+
