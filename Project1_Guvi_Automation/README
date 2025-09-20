@@ -53,6 +53,9 @@ Browser Compatibility: Chrome, Firefox, and Edge
 **Setup and Installation**
 To set up and run this project locally, follow these steps:
 
+**Clone the Repository:**
+git clone https://github.com/Poornima91-pg/Project1_Guvi_Site_Automation/tree/main
+
 **Install Dependencies:**
 pip install -r requirements.txt
 
@@ -121,4 +124,5 @@ Guvi-page-automation-pytest-selenium/
 ├── configwrite.py                            	# Environment variables writer file
 ├── config_reader.py                        	  # Environment variables reader file
 ├── requirements.txt                         	  # Project dependencies
+├── testlog.log                         	       # log file
 └── README.md                                	  # Project documentation
